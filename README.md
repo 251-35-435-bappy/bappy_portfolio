@@ -2,7 +2,7 @@
 
 A premium, dark-themed, fully responsive portfolio website built with **React.js**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **Lucide React**.
 
-**Live:** https://tanvircodebappy.vercel.app  
+**Live:** https://bappyportfolio.vercel.app/
 **Identity:** Md Tanvir Rahman Bappy — Software Engineering Student | Aspiring Software Engineer  
 **University:** Daffodil International University (DIU)
 
